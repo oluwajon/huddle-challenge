@@ -1,0 +1,100 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: hsl(257, 40%, 49%);
+  color: rgba(255, 229, 255, 0.94);
+  font-family: 'Open Sans', sans-serif;
+
+}
+/* logo */
+
+.logo{
+  margin: 20px;
+  padding: 20px;
+}
+
+/* mockups */
+.mockups{
+  margin: 20px;
+  padding:20px;
+}
+
+
+font-family: 'Poppins', sans-serif;
+
+/* right column styles */
+
+.right-wing{
+  padding: 200px;
+  color: #fff;
+  /* margin: 500px; */
+  /* margin-top: 50px; */
+}
+
+.build{
+  line-height: 2;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700 bold;
+  padding: 50px;
+  color: #fff;
+  margin: 10px;
+  margin-top: 10rem;
+}
+
+.build-sub{
+  line-height: 1.5;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  padding: 20px;
+  color: #fff;
+  margin: 0 20px;
+  margin-left: 50px;
+}
+
+.register{
+  background-color: #fff;
+  border-radius: 50px;
+  font-family: 'Poppins', sans-serif;
+  color: hsla(360, 0%, 40%, 0.93);
+  padding: 20px 40px;
+  margin-left: 60px;
+  width: 200px;
+  text-align: center;
+}
+.register a{
+  text-decoration: none;
+  text-decoration-color: none;
+  color: inherit;
+}
+.register a:hover{
+  text-decoration: none;
+}
+
+
+.social{
+  position: relative;
+  float: right;
+  margin: 10px;
+}
+.social-shape{
+  background-color: hsl(257, 40%, 49%);
+  border: 2px solid;
+  border-radius: 100px;
+  border-color: inherit;
+  padding: 15px;
+  margin-right: 10px;
+  color: #fff;
+}
+
+/* footer */
+footer{
+  background-color: #fff;
+  margin: 10px 0px 0px;
+  padding: 10px;
+}
+footer a{
+  text-decoration: none;
+  color: hsl(257, 40%, 49%);
+}
